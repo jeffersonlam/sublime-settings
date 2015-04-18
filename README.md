@@ -20,7 +20,9 @@ These are the packages I have installed. To list your Sublime packages, press `C
 * [Trailing Spaces](https://packagecontrol.io/packages/TrailingSpaces)
 
 If you want to install all of these, press `Cmd+Shift+P`, type in `Advanced Install Package`, and copy/paste this string.
-`BracketHighlighter, DustBuster, EditorConfig, Emmet, Expand Tabs on Save, GitGutter, HTML5, SCSS, SublimeLinter, SublimeLinter-contrib-scss-lint, SublimeLinter-jshint, Syntax Highlighting for Sass, TrailingSpaces`
+<code style="overflow: wrap">
+BracketHighlighter, DustBuster, EditorConfig, Emmet, Expand Tabs on Save, GitGutter, HTML5, SCSS, SublimeLinter, SublimeLinter-contrib-scss-lint, SublimeLinter-jshint, Syntax Highlighting for Sass, TrailingSpaces
+</code>
 
 ## Sublime preferences
 To view your Sublime preferences file, press `Cmd+,` or go to `Sublime Text > Preferences > User - Settings`. These are my settings.
