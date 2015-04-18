@@ -1,4 +1,4 @@
-![Sublime Text](./sublime-text-icon.png "Sublime Text")
+![Sublime Text](./sublime-text-icon.png =64x64 "Sublime Text")
 
 # sublime-settings
 These are my settings for Sublime Text - the popular text editor for web developers. I'm creating this repo so I have an easy way to share my settings with people, and also let people give me suggestions.
