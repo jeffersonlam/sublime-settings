@@ -1,7 +1,8 @@
 ![Sublime Text](./sublime-text-icon.png "Sublime Text")
 
 # sublime-settings
-These are my settings for Sublime Text - the popular text editor for web developers. I'm creating this repo so I have an easy way to share my settings with people, and also let people give me suggestions. Feedback is welcome as always welcome - just submit a pull request!
+These are my settings for Sublime Text - the popular text editor for web developers. I'm creating this repo so I have an easy way to share my settings with people, and also let people give me suggestions.
+Feedback is always welcome - just submit a pull request!
 
 ## Sublime Packages
 These are the packages I have installed. To list your Sublime packages, press `Cmd+Shift+P` and type in `List Packages`.
