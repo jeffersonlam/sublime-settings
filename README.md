@@ -1,4 +1,5 @@
-# sublime-settings <img src="./sublime-text-icon.png" style="width: 64; height: 64; vertical-align: bottom; display: table-cell;" />
+<img src="./sublime-text-icon.png" style="width: 48; height: 48;"/>
+# sublime-settings
 These are my settings for Sublime Text - the popular text editor for web developers. I'm creating this repo so I have an easy way to share my settings with people, and also let people give me suggestions.
 Feedback is always welcome - just submit a pull request!
 
