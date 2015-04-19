@@ -24,7 +24,7 @@ These are the packages I have installed. To list your Sublime packages, press `C
 
 If you want to install all of these, press `Cmd+Shift+P`, type in `Advanced Install Package`, and copy/paste this string.
 <kbd>
-BracketHighlighter, DustBuster, EditorConfig, Emmet, Expand Tabs on Save, GitGutter, HTML5, SCSS, SublimeLinter, SublimeLinter-contrib-scss-lint, SublimeLinter-jshint, Syntax Highlighting for Sass, TrailingSpaces
+BracketHighlighter, DustBuster, EditorConfig, Emmet, Expand Tabs on Save, GitGutter, HTML5, SCSS, SublimeLinter, SublimeLinter-contrib-scss-lint, SublimeLinter-jshint, Syntax Highlighting for Sass, TrailingSpaces, ColorPicker, Markdown Preview
 </kbd>
 
 ## Sublime preferences
