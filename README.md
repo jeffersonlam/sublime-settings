@@ -6,6 +6,7 @@ Feedback is always welcome - just submit a pull request!
 
 ## Sublime Packages
 These are the packages I have installed. To list your Sublime packages, press `Cmd+Shift+P` and type in `List Packages`.
+* [Alignment](https://packagecontrol.io/packages/Alignment)
 * [ColorPicker](https://packagecontrol.io/packages/ColorPicker)
 * [Bracket Highlighter](https://packagecontrol.io/packages/BracketHighlighter)
 * [Dust Buster](https://packagecontrol.io/packages/DustBuster)
@@ -24,7 +25,7 @@ These are the packages I have installed. To list your Sublime packages, press `C
 
 If you want to install all of these, press `Cmd+Shift+P`, type in `Advanced Install Package`, and copy/paste this string.
 <kbd>
-BracketHighlighter, DustBuster, EditorConfig, Emmet, Expand Tabs on Save, GitGutter, HTML5, SCSS, SublimeLinter, SublimeLinter-contrib-scss-lint, SublimeLinter-jshint, Syntax Highlighting for Sass, TrailingSpaces, ColorPicker, Markdown Preview
+BracketHighlighter, DustBuster, EditorConfig, Emmet, Expand Tabs on Save, GitGutter, HTML5, SCSS, SublimeLinter, SublimeLinter-contrib-scss-lint, SublimeLinter-jshint, Syntax Highlighting for Sass, TrailingSpaces, ColorPicker, Markdown Preview, Alignment
 </kbd>
 
 ## Sublime preferences
