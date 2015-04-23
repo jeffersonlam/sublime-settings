@@ -1,10 +1,13 @@
 <img src="./sublime-text-icon.png" style="width: 48px; height: 48px;"/>
 # sublime-settings
 These are my settings for Sublime Text - the popular text editor for web developers. I'm creating this repo so I have an easy way to share my settings with people, and also let people give me suggestions.
+
 Feedback is always welcome - just submit a pull request!
 
 ## Sublime Packages
 These are the packages I have installed. To list your Sublime packages, press `Cmd+Shift+P` and type in `List Packages`.
+* [Alignment](https://packagecontrol.io/packages/Alignment)
+* [ColorPicker](https://packagecontrol.io/packages/ColorPicker)
 * [Bracket Highlighter](https://packagecontrol.io/packages/BracketHighlighter)
 * [Dust Buster](https://packagecontrol.io/packages/DustBuster)
 * [Editor Config](https://packagecontrol.io/packages/EditorConfig)
@@ -12,6 +15,7 @@ These are the packages I have installed. To list your Sublime packages, press `C
 * [Expand Tabs on Save](https://packagecontrol.io/packages/Expand%20Tabs%20on%20Save)
 * [Git Gutter](https://packagecontrol.io/packages/GitGutter)
 * [HTML5](https://packagecontrol.io/packages/HTML5)
+* [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)
 * [SCSS](https://packagecontrol.io/packages/SCSS)
 * [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
 * [SublimeLinter-contrib-scss-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-scss-lint)
@@ -20,7 +24,9 @@ These are the packages I have installed. To list your Sublime packages, press `C
 * [Trailing Spaces](https://packagecontrol.io/packages/TrailingSpaces)
 
 If you want to install all of these, press `Cmd+Shift+P`, type in `Advanced Install Package`, and copy/paste this string.
-`BracketHighlighter, DustBuster, EditorConfig, Emmet, Expand Tabs on Save, GitGutter, HTML5, SCSS, SublimeLinter, SublimeLinter-contrib-scss-lint, SublimeLinter-jshint, Syntax Highlighting for Sass, TrailingSpaces`
+<kbd>
+BracketHighlighter, DustBuster, EditorConfig, Emmet, Expand Tabs on Save, GitGutter, HTML5, SCSS, SublimeLinter, SublimeLinter-contrib-scss-lint, SublimeLinter-jshint, Syntax Highlighting for Sass, TrailingSpaces, ColorPicker, Markdown Preview, Alignment
+</kbd>
 
 ## Sublime preferences
 To view your Sublime preferences file, press `Cmd+,` or go to `Sublime Text > Preferences > User - Settings`. These are my settings.
